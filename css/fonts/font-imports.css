@@ -1,0 +1,128 @@
+/******************************* FAMÍLIA POPPINS *******************************/
+@font-face {
+    font-family: Poppins-Black;
+    src: url(./poppins-font/Poppins-Black.ttf);
+}
+
+@font-face {
+    font-family: Poppins-BlackItalic;
+    src: url(./poppins-font/Poppins-BlackItalic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(./poppins-font/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-BoldItalic;
+    src: url(./poppins-font/Poppins-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-ExtraBold;
+    src: url(./poppins-font/Poppins-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-ExtraBoldItalic;
+    src: url(./poppins-font/Poppins-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-ExtraLight;
+    src: url(./poppins-font/Poppins-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: Poppins-ExtraLightItalic;
+    src: url(./poppins-font/Poppins-ExtraLightItalic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Italic;
+    src: url(./poppins-font/Poppins-Italic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Light;
+    src: url(./poppins-font/Poppins-Light.ttf);
+}
+
+@font-face {
+    font-family: Poppins-LightItalic;
+    src: url(./poppins-font/Poppins-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(./poppins-font/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Poppins-MediumItalic;
+    src: url(./poppins-font/Poppins-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(./poppins-font/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(./poppins-font/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-SemiBoldItalic;
+    src: url(./poppins-font/Poppins-SemiBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Thin;
+    src: url(./poppins-font/Poppins-Thin.ttf);
+}
+
+@font-face {
+    font-family: Poppins-ThinItalic;
+    src: url(./poppins-font/Poppins-ThinItalic.ttf);
+}
+/******************************* FIM FAMÍLIA POPPINS *******************************/
+
+/******************************* FAMÍLIA KARE *******************************/
+@font-face {
+    font-family: Kare;
+    src: url(./kare-font/Kare.ttf);
+}
+
+@font-face {
+    font-family: Jura-DemiBold;
+    src: url(./kare-font/Jura-DemiBold.otf);
+}
+
+@font-face {
+    font-family: Jura-Light;
+    src: url(./kare-font/Jura-Light.otf);
+}
+
+@font-face {
+    font-family: Jura-Medium;
+    src: url(./kare-font/Jura-Medium.otf);
+}
+
+@font-face {
+    font-family: Jura-Regular;
+    src: url(./kare-font/Jura-Regular.otf);
+}
+
+@font-face {
+    font-family: Play-Bold;
+    src: url(./kare-font/Play-Bold.ttf);
+}
+
+@font-face {
+    font-family: Play-Regular;
+    src: url(./kare-font/Play-Regular.ttf);
+}
+/*******************************E FIM FAMÍLIA KARE *******************************/

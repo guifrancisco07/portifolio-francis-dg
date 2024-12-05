@@ -1,0 +1,48 @@
+.sec-sobre{
+    min-height: 50vh;
+    background-color: rgba(0, 255, 157, 0.7);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section.sec-sobre .flex{
+    height: 50vh;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.sec-sobre .txt-topo-site{
+    width: 100%;
+    padding: 0px 6%;
+    animation: opacidade-moviment 1s ease-out alternate;
+}
+
+.sec-sobre .txt-topo-site h1{
+    color: #fff; 
+    font-size: 6em;
+    font-weight: 10;
+    font-family: Kare;
+}
+
+.sec-sobre .txt-topo-site h1 span{
+    color: #00ff9c;
+    font-size: 0.5em;
+    font-family: Poppins-Bold;
+}
+
+.sec-sobre .txt-topo-site p{
+    color: #fff; 
+    font-size: 16px;
+    font-weight: 10;
+    font-family: Jura-Medium;
+
+    max-width: 60%;
+    text-align: justify;
+    margin: 10px 0;
+}
+
+.sec-sobre .txt-topo-site button{
+    margin: 10px 0;
+}

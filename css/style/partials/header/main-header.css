@@ -1,0 +1,96 @@
+
+/* ANIMAÇÃO JS */
+header.rolagem{
+    z-index: 3;
+    background-color: #0a0a0a;
+    padding: 10px 4%;
+}
+
+header.rolagem nav a{
+    color: #0a0a0a;
+}
+/* FIM DA ANIMAÇÃO JS */
+
+/* ESTILIZAÇÃO DO CABEÇALHO */
+header{
+    z-index: 20;
+    width: 100%;
+    padding: 40px 4%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: .4s;
+}
+
+header img{
+    height: auto;
+    width: 120px;
+}
+
+header > .interface{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+header nav a{
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+    transition: .2s;
+    font-family: Jura-Medium;
+    font-weight: bold;
+
+    padding: 2px 14px;
+    border: solid 0px transparent;
+    border-radius: 10px;
+    background-color: #00ff9c;
+}
+
+header nav.menu-desktop a:hover{
+    color: #0a0a0a;
+    background-color: #42ffb7;
+    border-bottom: solid 2px #278f67;
+    transform: scale(1.05);
+}
+
+header nav ul{
+    list-style-type: none;
+}
+
+header nav.menu-desktop ul li{
+    display: inline-block;
+    padding: 0 30px;
+}
+
+.logo img{
+    height: auto;
+    width: 80px;
+}
+
+.menu-mobile, .btn-abrir-menu{
+    display: none;
+}
+
+@media screen and (max-width: 1330px) {
+
+    header nav.menu-desktop ul li{
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width: 1130px) {
+
+    header nav.menu-desktop ul li{
+        padding: 0 10px;
+    }
+}
+
+
+@media screen and (max-width: 1000px) {
+
+    header nav.menu-desktop ul li{
+        padding: 0 5px;
+    }
+}
